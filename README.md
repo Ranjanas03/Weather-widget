@@ -14,3 +14,6 @@ A simple weather application that fetches real-time weather data from WeatherAPI
 🎨 CSS
 🚀 JavaScript (ES6)
 🌎 WeatherAPI
+
+url-
+https://weatherwidgetapp.netlify.app/
